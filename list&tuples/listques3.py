@@ -1,7 +1,5 @@
-#check that a tuple cant be change in a python . 
+#wap to sum a list with 4 numbers.
 
-a = (1, 2, 3)
+a=[1,2,5,6,3]
 
-a[0] = 10
-
-print(a)
+print(sum ( a ))
