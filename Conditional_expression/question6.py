@@ -23,4 +23,5 @@ elif(marks<=60 and marks >=50):
 elif(marks<=50 and marks >=0):
     grade = "F"
 
-print ( grade )
+print ( "your grade is :-" grade )
+
