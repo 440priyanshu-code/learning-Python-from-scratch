@@ -3,8 +3,8 @@
 
 post = input ( "enter your post:-")
 
-if ( "orry" in post):
+if ( "orry".lower() in post.lower()):
    print (" post is talking about Orry" )
 else:
    print("post is not talking about Orry")
-   
+
