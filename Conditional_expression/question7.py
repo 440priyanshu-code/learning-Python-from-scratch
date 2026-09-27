@@ -3,5 +3,8 @@
 
 post = input ( "enter your post:-")
 
-if ( "harry" in post)
-print (" post is talking about Orry" )
+if ( "orry" in post):
+   print (" post is talking about Orry" )
+else:
+   print("post is not talking about Orry")
+   
