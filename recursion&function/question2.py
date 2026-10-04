@@ -3,3 +3,8 @@ def f_to_c(f):
 f = int (input( "enter temperature in F: "))
 c= f_to_c(f)
 print (f"{ round(c,2)}°C")
+
+
+# enter temperature in F: 88 
+# 31.11°C
+
