@@ -36,3 +36,12 @@ else:
 
     else:
         print("Something went wrong!")
+
+
+
+ #OUTPUT:-
+# Enter your choice (s/w/g): s
+# You chose snake
+# Computer chose gun
+# You win!
+
